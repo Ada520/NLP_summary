@@ -18,7 +18,7 @@ http://www.ltp-cloud.com/
 jieba分词（推荐）
 -------------
 https://github.com/fxsjy/jieba  
-基于前缀词典实现高效的词图扫描，采用动态规划查找最大概率路径，支持三种分词模式：精确模式、全模式、搜索引擎模式。  
+基于前缀词典高效词图扫描，采用动态规划查找最大概率路径，支持三种分词模式：精确模式、全模式、搜索引擎模式。  
 主要功能包括分词、添加自定义词典、关键词提取（基于TF-IDF或TextRank）、词性标注、并行分词等功能。  
 
 FudanNLP
@@ -29,7 +29,7 @@ FudanNLP采用Java编写，提供了API的访问调用方式，包含机器学�
 
 Stanford Natural Language Processing
 -------------
-http://nlp.stanford.edu/software/  
+http://nlp.stanford.edu/software/
 *   Stanford CoreNLP 采用Java编写的面向英文的处理工具，主要功能包括分词、词性标注、命名实体识别、语法分析等。  
 *   Stanford Word Segmenter 提供基于CRF（条件随机场）算法的分词功能。  
 *   Stanford Named Entity Recognizer 提供命名实体识别功能。  
